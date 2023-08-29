@@ -1,0 +1,146 @@
+.container1{
+  justify-content: center;
+  align-items: center;
+  
+  width: 50%;
+  height: 50%;
+  display: grid;
+  margin-left: 25%;
+  margin-top: 14%;
+}
+.cabecalho1 h1{
+  font-size: 600px;
+  text-align: center;
+  margin-bottom: 200px;
+  font-weight: 600;
+  color: #9f91f0;
+}
+.container1 span{
+  letter-spacing: -11px;
+}
+.container1 span:first-of-type,
+.title span:nth-of-type(4) {
+  color: #2a6fc9;
+}
+.container1 span:nth-of-type(2),
+.title span:last-of-type {
+  color: #4d3de4;
+}
+.container1 span:nth-of-type(5) {
+  color: #523ea8;
+}
+input[type="text"] {
+  width: 600px; 
+  padding: 10px;
+  border: 1px solid #2316db;
+  border-radius: 4px;
+  font-size: 16px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 6%;
+  margin-left: 22%;
+}
+
+.button {
+  
+  padding: 10px 15px;
+  margin-top: 20px;
+  margin-right: 29%
+}
+.button:first-child {
+  margin-right: 25px; 
+}
+.footer {
+  background-color: rgb(104, 76, 206);
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  max-height: 50%;
+  margin-top: 15%;
+  margin-left: -58%;
+  margin-right: -58%;
+}
+.k1{
+  margin-left: -95%;
+}
+.k2{
+  margin-left: -80%;
+  margin-top: -4%;
+}
+.set{
+  
+  color: #b91717;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.conteiner {
+  position: absolute;
+  left: 0;
+  top: 1%;
+  width: 20%;
+  right: 20%;
+}
+.containel{
+  
+  position: absolute;
+  bottom: 1%;
+  right: 1px;
+  width: 7%;
+  height: 9%;
+}
+.set{
+  color: #ffffff;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.containell{
+  
+  position: absolute;
+  bottom: 1%;
+  right: 1px;
+  width: 12%;
+  height: 9%;
+}
+.term{
+  color: #ffffff;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.containelll{
+  position: absolute;
+  bottom: 1%;
+  right: 1px;
+  width: 18%;
+  height: 9%;
+}
+.priv{
+  color: #ffffff;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.cabecalho {
+  position: absolute;
+  left: 90%;
+  top: 1%;
+  width: 20%;
+  right: 20%;
+}
+.cab {
+  
+  color: #271f1f;
+  padding: 5px 10px;
+  border-radius: 15px;
+  font-size: 14px;
+  cursor: pointer;
+} 
